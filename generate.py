@@ -23,6 +23,7 @@ steps = [
     ("6,5","7","Weiter"),
     ("7","8","Weiter"),
     ("8","9","Weiter"),
+    ("9","10","Weiter"),
     ("10","11","Gesetz"),
     ("11","12","Weiter"),
     ("12","13","Weiter"),
@@ -52,6 +53,7 @@ steps = [
     ("36","37","Weiter"),
     ("37","38","Weiter"),
     ("38","39","Weiter"),
+    ("39","0,0","Neustart"),
     ]
 
 template = """<!DOCTYPE html>
