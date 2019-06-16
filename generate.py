@@ -23,27 +23,35 @@ steps = [
     ("6,5","7","Weiter"),
     ("7","8","Weiter"),
     ("8","9","Weiter"),
-    ("10","11","Weiter"),
+    ("10","11","Gesetz"),
     ("11","12","Weiter"),
     ("12","13","Weiter"),
     ("13","14","Weiter"),
     ("14","15","Weiter"),
     ("15","16","Weiter"),
+    ("16","17","Weiter"),
     ("17","18","Weiter"),
-    ("18","19","Weiter"),
+    ("18","19","Lange Rede"),
     ("19","20","Weiter"),
-    ("20","21","Weiter"),
+    ("20","21","Neuland"),
+    ("21","22","Neuland"),
     ("22","23","Weiter"),
     ("23","24","Weiter"),
     ("24","25","Weiter"),
     ("25","26","Weiter"),
     ("26","27","Weiter"),
     ("27","28","Weiter"),
-    ("20","21","Weiter"),
-    ("20","21","Weiter"),
-    ("20","21","Weiter"),
-    ("20","21","Weiter"),
-    ("20","21","Weiter"),
+    ("28","29","Weiter"),
+    ("29","30","Weiter"),
+    ("30","31","Weiter"),
+    ("31","32","Weiter"),
+    ("32","33","Artikel 13"),
+    ("33","34","Weiter"),
+    ("34","35","Weiter"),
+    ("35","36","Weiter"),
+    ("36","37","Weiter"),
+    ("37","38","Weiter"),
+    ("38","39","Weiter"),
     ]
 
 template = """<!DOCTYPE html>
@@ -55,7 +63,7 @@ template = """<!DOCTYPE html>
 </head>
 <!--AB HIER SICHTBAR-->
 <body>
-    <div style="width:440px;margin:0px auto"><img src="pokeball.png" alt="pokeball" width="60" height="60"> <h1>EUmon im Neuland</h1>
+    <div style="width:440px;margin:0px auto"><img src="pokeball2.png" alt="pokeball" width="60" height="60"> <h1>EUmon im Neuland</h1>
         
     <a href="step_0,0.html"><h2>Spiel</h2></a>
     <a href="info.html"><h2>Info</h2></a>
